@@ -1,5 +1,5 @@
 import pytest
-from wallet_passes.main import first_test
+from wallet_pass.main import first_test
 
 
 def test_first_test():
